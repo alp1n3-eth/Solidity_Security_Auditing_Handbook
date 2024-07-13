@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Web3 Auditor Roadmap](web3-auditor-roadmap.md)
+## Start Here
+
+* [👋 Welcome](README.md)
+* [🎯 Web3 Auditor Roadmap](start-here/web3-auditor-roadmap.md)

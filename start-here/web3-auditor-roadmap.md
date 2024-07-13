@@ -1,4 +1,4 @@
-# Web3 Auditor Roadmap
+# 🎯 Web3 Auditor Roadmap
 
 {% hint style="warning" %}
 This roadmap is not comprehensive and is subject to change.

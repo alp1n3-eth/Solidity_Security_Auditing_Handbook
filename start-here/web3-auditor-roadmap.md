@@ -46,7 +46,7 @@ Suggestions:
 * Beedlefi
 * DoraFactory
 * JuiceBox v4
-* More previous audit reports and other good vulnerability resources can be found @ [Solodit](https://solodit.xyz/).
+* More previous audit reports and other good vulnerability resources can be found @ [Solodit](https://solodit.xyz/)
 
 <!---->
 
